@@ -1,7 +1,8 @@
-Plugin creado para el evento Geo Ware Oddysey evento de ALDO GEO
+Plugin creado para el evento Geo Ware Odyssey del evento de ALDO GEO.
 
-en este plugin vas a encontrar el modo de juego QUE ME MAREO a un 75% de terminarse(no lo voy a terminar nunca)
-al igual que el modo de juego PERFECTAMENTE EQUILIBRADO este esta 100% terminado y es el que se uso para el evento 
+En este plugin vas a encontrar el modo de juego QUE ME MAREO, el cual está aproximadamente al 75% de desarrollo (y probablemente no lo termine nunca 😅).
+
+También incluye el modo de juego PERFECTAMENTE EQUILIBRADO, que está 100% terminado y fue el que se utilizó durante el evento.
 
 
 
